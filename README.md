@@ -10,9 +10,9 @@
 ## Schematic
 
 ![Screenshot 2025-05-22 214211](https://github.com/user-attachments/assets/47e9c7f3-0aa4-4949-a5a1-780de6bfa0da)
-![Screenshot 2025-05-22 214146](https://github.com/user-attachments/assets/c626ca8b-4335-4c91-8032-c2ac8461c589)
-![Screenshot 2025-05-22 214152](https://github.com/user-attachments/assets/9b0a6b2d-b457-4162-b88d-c7782bfbdf18)
+![Screenshot 2025-05-22 215047](https://github.com/user-attachments/assets/908d84b1-db6f-4c7f-8bdf-44580fd2ba55)
 
+![Screenshot 2025-05-22 215040](https://github.com/user-attachments/assets/8d53f1de-0016-4ab2-8509-418387abf6b1)
 
 
 
