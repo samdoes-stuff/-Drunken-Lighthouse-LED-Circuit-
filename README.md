@@ -9,14 +9,17 @@
 
 ## Schematic
 
-![Screenshot 2025-05-22 192455](https://github.com/user-attachments/assets/bcbbb775-a9dc-466b-82ec-e50bb56cd389)
-![Screenshot 2025-05-22 201331](https://github.com/user-attachments/assets/664597f2-3dfe-4d8e-a27c-9c7f379b2aca)
-![Screenshot 2025-05-22 201352](https://github.com/user-attachments/assets/c3721498-b37b-4ddd-acb1-d77b2f4a2abc)
+![Screenshot 2025-05-22 214211](https://github.com/user-attachments/assets/47e9c7f3-0aa4-4949-a5a1-780de6bfa0da)
+![Screenshot 2025-05-22 214146](https://github.com/user-attachments/assets/c626ca8b-4335-4c91-8032-c2ac8461c589)
+![Screenshot 2025-05-22 214152](https://github.com/user-attachments/assets/9b0a6b2d-b457-4162-b88d-c7782bfbdf18)
+
+
+
 
 
 ## 3D view
 
-https://drive.google.com/file/d/1oedmdwNk585kRPUg2eWN3HzJy9GeVqEE/view?usp=sharing
+https://drive.google.com/file/d/1KRBUkA9gXSAIvSa5hrNvrK7rR_f1Rs4E/view?usp=sharing
 
 ## Components
 | Component          | Quantity | Notes                          |
