@@ -9,7 +9,8 @@
 
 ## Schematic
 
-![Screenshot 2025-05-27 192755](https://github.com/user-attachments/assets/005008fe-2489-4f21-a54b-5f7543081820)
+![image](https://github.com/user-attachments/assets/68590e1d-6a8a-4c0a-a2ed-baeb744b6f75)
+
 ![Screenshot 2025-05-27 194323](https://github.com/user-attachments/assets/91e97a83-7a86-4e4f-bfde-9d0d342bfc82)
 
 
