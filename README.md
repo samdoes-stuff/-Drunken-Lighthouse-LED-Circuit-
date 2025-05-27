@@ -10,6 +10,8 @@
 ## Schematic
 
 ![Screenshot 2025-05-27 192755](https://github.com/user-attachments/assets/005008fe-2489-4f21-a54b-5f7543081820)
+![Screenshot 2025-05-27 194323](https://github.com/user-attachments/assets/91e97a83-7a86-4e4f-bfde-9d0d342bfc82)
+
 
 
 
@@ -17,6 +19,7 @@
 ## 3D view
 
 ![Screenshot 2025-05-27 194259](https://github.com/user-attachments/assets/f2af5ce9-8a16-4a8e-95d1-b0e1c6f608f6)
+![Screenshot 2025-05-27 194307](https://github.com/user-attachments/assets/6142766a-c21b-40ff-b3d7-e64cf7aef05f)
 
 
 ## Components
