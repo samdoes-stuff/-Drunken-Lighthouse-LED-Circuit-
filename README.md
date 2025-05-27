@@ -1,5 +1,5 @@
 # 🚨 Drunken Lighthouse LED Circuit 🚨
-*A light circuit board for EID *
+*A light circuit board for EID glowing in different patters in a shape of a moon. *
 
 
 ## Features
